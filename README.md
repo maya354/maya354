@@ -18,33 +18,47 @@ I value **simplicity**, **attention to detail**, and the balance between **desig
 
 ## 🌐 Tech Stack
 
-I specialize in building modern, responsive websites using:
+### 🛠️ Tech Stack
+- **Languages:** C, Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Tailwind CSS  
+- **Cybersecurity & Networking:** Linux, Wireshark, VirtualBox  
+- **Tools:** Git, GitHub
 
-- 🧱 **HTML**, **CSS**, **Tailwind CSS**
-- ⚙️ **JavaScript**, DOM manipulation
-- 🚀 Currently learning **React.js** and **GitHub** workflows
-
-I'm also exploring how my cybersecurity background can enhance the **security and reliability** of front-end web applications.
 
 ---
 
 ## ✨ Projects
 
-- 🔢 **Simple Calculator** – Clean calculator built using vanilla HTML, CSS & JavaScript  
-- ☕ **The Gentle Bean** – Elegant, multi-page coffee shop website with booking and menu systems  
-- 🛒 **E-commerce Cart** – Amazon-style shopping UI with local storage and checkout features  
-- 📅 **Reservation System** – Dynamic form logic using JS for time-slot selection  
+Digital Elevator Controller (Logisim, Sequential Circuits & FSM)
+Designed and implemented a digital elevator control system using D Flip-Flops, comparators, priority encoders, and logic gates. Simulated elevator movement across four floors with up, down, idle, and stop signals. Displayed current floor using a 7-segment display. Applied finite state machine (FSM) theory to a practical sequential circuit system.
 
-Each project focuses on **responsive design**, **usability**, and a consistent **visual aesthetic**.
+InDev Club Website (HTML, Tailwind CSS, JavaScript)
+Contributed to the official website of the InDev student club, showcasing events, announcements, and resources. Focused on creating a professional, responsive, and user-friendly interface with modern design practices.
 
+Mathematical Functions Library in C
+Built a modular C static library (AlgorithmProject) with a header file and multiple mathematical functions (basic, intermediate, advanced). Implemented dynamic memory handling for matrix operations (including inverse calculation).
+
+Array Utilities Library in C
+Developed a reusable library with functions for sorting, searching, analysis, and manipulation of arrays. Included optimized algorithms for both beginners and advanced use cases.
+
+Word Processing System with Linked Lists & Stacks (C)
+Implemented a text-processing program handling synonyms, antonyms, sorting, and word operations using data structures like linked lists, stacks, and queues.
+
+Traffic Simulation with Queues (C)
+Modeled a one-way road intersection with queue-based simulation. Implemented traffic rules, signal timing, and vehicle flow management.
+
+Coffee Shop Website (HTML, Tailwind CSS, JavaScript)
+Built a professional multi-page website (“The Gentle Bean”) with reservation system, menu, and social media integration. Designed with a unique, elegant, responsive UI.
+
+E-Commerce Fashion Website (HTML, CSS, JavaScript)
+Created a stylish Amazon-style e-commerce platform with product display, cart management, and checkout system. Designed custom UI with category-based navigation and hero sections.
 ---
 
 ## 🛠️ Currently Working On
 
 - Deepening my skills in **React.js** and **Git/GitHub**  
 - Adding **form validation**, **smooth animations**, and **mobile-first** practices  
-- Developing a professional **portfolio site** to showcase my freelance-ready skills
-
+- Developing a professional **portfolio site** 
 ---
 
 ## 🧠 Cybersecurity Meets Web Development
