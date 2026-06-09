@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maya 👋</h1>
+<h1 align="center">Hi, I'm Maya </h1>
 
 <p align="center">
 Frontend Developer & Cybersecurity Student who enjoys building modern, responsive web apps with a focus on clean design and secure coding.
